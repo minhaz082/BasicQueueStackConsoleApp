@@ -1,0 +1,5 @@
+C:\Users\miraz\Desktop\C#Practice Office\ConsoleAppQueuePractice\ConsoleAppQueuePractice\bin\Debug\ConsoleAppQueuePractice.exe
+C:\Users\miraz\Desktop\C#Practice Office\ConsoleAppQueuePractice\ConsoleAppQueuePractice\bin\Debug\ConsoleAppQueuePractice.pdb
+C:\Users\miraz\Desktop\C#Practice Office\ConsoleAppQueuePractice\ConsoleAppQueuePractice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\miraz\Desktop\C#Practice Office\ConsoleAppQueuePractice\ConsoleAppQueuePractice\obj\x86\Debug\ConsoleAppQueuePractice.exe
+C:\Users\miraz\Desktop\C#Practice Office\ConsoleAppQueuePractice\ConsoleAppQueuePractice\obj\x86\Debug\ConsoleAppQueuePractice.pdb
